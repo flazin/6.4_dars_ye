@@ -1,0 +1,46 @@
+body {
+  background-color: red;
+}
+
+.Category {
+  color: red;
+}
+
+.left-sidebar {
+  top: 0;
+  left: 200px;
+  justify-content: center;
+  align-items: center;
+}
+
+.left-sidebar .Category {
+  margin-bottom: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.left-sidebar .Category:hover {
+  cursor: pointer;
+  justify-content: center;
+  align-items: center;
+}
+
+.Tasks {
+  margin-left: 200px;
+  justify-content: center;
+  align-items: center;
+}
+
+.Trash {
+  top: 10px;
+  cursor: pointer;
+  justify-content: center;
+  align-items: center;
+}
+
+.Trash i {
+  font-size: 64px;
+  color: rgb(149, 134, 134);
+  justify-content: center;
+  align-items: center;
+}
